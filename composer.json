@@ -1,0 +1,9 @@
+{
+    "name": "julia/app_filme",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "require": {}
+}
